@@ -17,7 +17,7 @@
 
 ## :wrench: Technologies
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,aws,github,mysql,php,postman,py,webflow,wordpress)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,js,html,css,github,php,aws,webflow,wordpress,mysql)](https://skillicons.dev)
 
 ---
 
