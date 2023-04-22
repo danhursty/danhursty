@@ -4,7 +4,7 @@
 
 ---
 
-## I'm A Full-Stack Data Engineer, Developer & Growth Marketer
+## I'm A SOFTWARE ENGINEER
 
 - 🌱  I’m currently diving in on Python projects.
 - ☕ Coffee fueled code. [you can buy me a coffee](https://www.buymeacoffee.com/danieldhurst)!
