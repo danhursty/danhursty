@@ -4,7 +4,7 @@
 
 ---
 
-## I'm A SOFTWARE ENGINEER
+## I'm A Full-Stack Data Engineer, Developer & Growth Marketer
 
 - 🌱  I’m currently diving in on Python projects.
 - ☕ Coffee fueled code. [you can buy me a coffee](https://www.buymeacoffee.com/danieldhurst)!
@@ -17,7 +17,7 @@
 
 ## :wrench: Technologies
 
-![HTML5](https://img.icons8.com/color/30/html-5.png)![CSS3](https://img.icons8.com/color/30/css3.png)![Python](https://img.icons8.com/color/30/000000/python.png)![JavaScript](https://img.icons8.com/color/30/javascript.png)![PHP](https://icons8.com/icon/776/php)![Wordpress](https://icons8.com/icon/13664/wordpress)![Shopify](https://icons8.com/icon/SZ0VDlOvY5zB/shopify)![Webflow](https://icons8.com/icon/jsQA1CYwtblt/webflow)![SQL](https://icons8.com/icon/10429/sql)![Github](https://img.icons8.com/material-outlined/30/github.png)![Git](https://img.icons8.com/color/30/git.png)![VSCode](https://img.icons8.com/color/30/visual-studio-code-2019.png)
+![HTML5](https://img.icons8.com/color/30/html-5.png)![CSS3](https://img.icons8.com/color/30/css3.png)![Python](https://img.icons8.com/color/30/000000/python.png)![JavaScript](https://img.icons8.com/color/30/javascript.png)![PHP](https://icons8.com/icon/776/php)![Wordpress](https://user-images.githubusercontent.com/25181517/192158957-b1256181-356c-46a3-beb9-487af08a6266.png)![Shopify](https://icons8.com/icon/SZ0VDlOvY5zB/shopify)![Webflow](https://icons8.com/icon/jsQA1CYwtblt/webflow)![SQL](https://icons8.com/icon/10429/sql)![Github](https://img.icons8.com/material-outlined/30/github.png)![Git](https://img.icons8.com/color/30/git.png)![VSCode](https://img.icons8.com/color/30/visual-studio-code-2019.png)
 
 ---
 
